@@ -1,0 +1,16 @@
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\Console App.exe
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\Console App.deps.json
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\Console App.runtimeconfig.json
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\Console App.runtimeconfig.dev.json
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\Console App.dll
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\ref\Console App.dll
+D:\Running On\DotNet\Simple Attempts\Console App\bin\Debug\net5.0\Console App.pdb
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.csprojAssemblyReference.cache
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.AssemblyInfoInputs.cache
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.AssemblyInfo.cs
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.csproj.CoreCompileInputs.cache
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.dll
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\ref\Console App.dll
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.pdb
+D:\Running On\DotNet\Simple Attempts\Console App\obj\Debug\net5.0\Console App.genruntimeconfig.cache
